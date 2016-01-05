@@ -15,7 +15,7 @@
 
 `axel -n {{connections_num}} {{url}}`
 
-- Search for mirrors (can specify numbers)
+- Search for mirrors
 
 `axel -S {{mirrors_num}} {{url}}`
 
